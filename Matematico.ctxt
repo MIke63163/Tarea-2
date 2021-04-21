@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Matematico
+comment1.params=x\ y\ z
+comment1.target=java.lang.String\ ordenar(int,\ int,\ int)
+comment2.params=base\ altura
+comment2.target=double\ calcArea(double,\ double)
+comment3.params=x\ y
+comment3.target=java.lang.String\ cuadrante(double,\ double)
+numComments=4
